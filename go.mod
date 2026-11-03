@@ -4,7 +4,7 @@ go 1.26.10
 
 require (
 	github.com/elastic/beats/v7 v7.17.22
-	github.com/go-jose/go-jose/v4 v4.0.2
+	github.com/go-jose/go-jose/v4 v4.1.6
 	github.com/hashicorp/go-retryablehttp v0.7.7
 )
 
